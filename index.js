@@ -1,0 +1,179 @@
+function vinit()
+{
+var a = f1.t38.value;
+f1.t1.value=+a;
+switch(a)
+{
+    case "January":f1.t1.value="";
+                 f1.t2.value="";
+                 f1.t3.value="";
+                 f1.t4.value="";
+                 f1.t5.value="";
+                 f1.t6.value="";
+                 f1.t7.value="1";
+                 f1.t8.value="2";
+                 f1.t9.value="3";
+                 f1.t10.value="4";
+                 f1.t11.value="5";
+                 f1.t12.value="6";
+                 f1.t13.value="7";
+                 f1.t14.value="8";
+                 f1.t15.value="19";
+                 f1.t16.value="10";
+                 f1.t17.value="11";
+                 f1.t18.value="12";
+                 f1.t19.value="13";
+                 f1.t20.value="14";
+                 f1.t21.value="15";
+                 f1.t22.value="16";
+                 f1.t23.value="17";
+                 f1.t24.value="18";
+                 f1.t25.value="19";
+                 f1.t26.value="20";
+                 f1.t27.value="21";
+                 f1.t28.value="22";
+                 f1.t29.value="23";
+                 f1.t30.value="24";
+                 f1.t31.value="25";
+                 f1.t32.value="26";
+                 f1.t33.value="27";
+                 f1.t34.value="28";
+                 f1.t35.value="29";
+                 f1.t36.value="30";
+                 f1.t37.value="31";
+                 
+    break;
+    case "February":f1.t1.value="";
+                 f1.t2.value="";
+                 f1.t3.value="1";
+                 f1.t4.value="2";
+                 f1.t5.value="3";
+                 f1.t6.value="4";
+                 f1.t7.value="5";
+                 f1.t8.value="6";
+                 f1.t9.value="7";
+                 f1.t10.value="8";
+                 f1.t11.value="9";
+                 f1.t12.value="10";
+                 f1.t13.value="11";
+                 f1.t14.value="12";
+                 f1.t15.value="13";
+                 f1.t16.value="14";
+                 f1.t17.value="15";
+                 f1.t18.value="16";
+                 f1.t19.value="17";
+                 f1.t20.value="18";
+                 f1.t21.value="19";
+                 f1.t22.value="20";
+                 f1.t23.value="21";
+                 f1.t24.value="22";
+                 f1.t25.value="23";
+                 f1.t26.value="24";
+                 f1.t27.value="25";
+                 f1.t28.value="26";
+                 f1.t29.value="27";
+                 f1.t30.value="28";
+                 f1.t31.value="29";
+                 f1.t32.value="30";
+                 f1.t33.value="31";
+                 f1.t34.value="";
+                 f1.t35.value="";
+                 f1.t36.value="";
+                 f1.t37.value="";
+    break;
+    case "March":f1.t1.value="";
+                 f1.t2.value="";
+                 f1.t3.value="1";
+                 f1.t4.value="2";
+                 f1.t5.value="3";
+                 f1.t6.value="4";
+                 f1.t7.value="5";
+                 f1.t8.value="6";
+                 f1.t9.value="7";
+                 f1.t10.value="8";
+                 f1.t11.value="9";
+                 f1.t12.value="10";
+                 f1.t13.value="11";
+                 f1.t14.value="12";
+                 f1.t15.value="13";
+                 f1.t16.value="14";
+                 f1.t17.value="15";
+                 f1.t18.value="16";
+                 f1.t19.value="17";
+                 f1.t20.value="18";
+                 f1.t21.value="19";
+                 f1.t22.value="20";
+                 f1.t23.value="21";
+                 f1.t24.value="22";
+                 f1.t25.value="23";
+                 f1.t26.value="24";
+                 f1.t27.value="25";
+                 f1.t28.value="26";
+                 f1.t29.value="27";
+                 f1.t30.value="28";
+                 f1.t31.value="29";
+                 f1.t32.value="30";
+                 f1.t33.value="31";
+                 f1.t34.value="";
+                 f1.t35.value="";
+                 f1.t36.value="";
+                 f1.t37.value="";
+    break;
+    case "April":f1.t1.value="";
+                 f1.t2.value="";
+                 f1.t3.value="";
+                 f1.t4.value="";
+                 f1.t5.value="";
+                 f1.t6.value="";
+                 f1.t7.value="1";
+                 f1.t8.value="2";
+                 f1.t9.value="3";
+                 f1.t10.value="4";
+                 f1.t11.value="5";
+                 f1.t12.value="6";
+                 f1.t13.value="7";
+                 f1.t14.value="8";
+                 f1.t15.value="19";
+                 f1.t16.value="10";
+                 f1.t17.value="11";
+                 f1.t18.value="12";
+                 f1.t19.value="13";
+                 f1.t20.value="14";
+                 f1.t21.value="15";
+                 f1.t22.value="16";
+                 f1.t23.value="17";
+                 f1.t24.value="18";
+                 f1.t25.value="19";
+                 f1.t26.value="20";
+                 f1.t27.value="21";
+                 f1.t28.value="22";
+                 f1.t29.value="23";
+                 f1.t30.value="24";
+                 f1.t31.value="25";
+                 f1.t32.value="26";
+                 f1.t33.value="27";
+                 f1.t34.value="28";
+                 f1.t35.value="29";
+                 f1.t36.value="30";
+                 f1.t37.value="31";
+       break;
+       case "May":
+       break;
+       case "June":
+       break;
+       case "July":
+       break;
+       case "August":
+       break;
+       case "September":
+       break;
+       case "October":
+       break;
+       case "November":
+       break;
+       case "December":
+       break;        
+    default:alert("Follow upppercase and lowercase patttern 'January'")
+}
+
+}
